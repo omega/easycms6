@@ -1,0 +1,4 @@
+h1. EasyCMS6
+
+Just a toy to try to learn some Perl6. No proper database, no propper templates etc
+
